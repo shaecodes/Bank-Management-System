@@ -1,4 +1,5 @@
 #Starter code created by ChatGPT
+#Disclaimer: bank_management.py was created on the basis of this starter code created by ChatGPT 
 
 class BankAccount:
     def __init__(self, account_number, account_holder, balance=0):
