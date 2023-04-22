@@ -8,6 +8,16 @@ This is a simple bank account management system implemented in Python. It provid
 - Close account: Users can close their bank account by providing the account number and confirming their choice.
 - View accounts: Users can view the list of all existing bank accounts by providing the correct username and password for authentication.
 
+# How to Run the Bank Account Management System
+- Clone the repository to your local machine.
+- Open a terminal and navigate to the directory where the repository is cloned.
+- Run the bank_management_system.py file using the Python interpreter.
+- Follow the on-screen prompts to interact with the bank account management system and perform various operations such as creating accounts, depositing and withdrawing money, closing accounts, and viewing account records.
+- If you're interested in contributing and adding file handling with CSV, refer to the "Collaborating and Adding File Handling with CSV" section for further instructions.
+
+# Dependencies
+The Bank Account Management System requires Python 3.x to run. There are no additional external dependencies.
+
 # Collaborating and Adding File Handling with CSV
 I am open to collaborations and contributions to enhance the functionality of this bank account management system. One potential improvement could be adding file handling with CSV (Comma-Separated Values) to store account data persistently.  
 
@@ -21,3 +31,4 @@ Here's how we can collaborate on this:
 - We can discuss and decide on the structure of the CSV file, including the columns for storing account information such as account number, account holder's name, and balance.
 - We can test the system thoroughly to ensure that the file handling functionalities are working correctly and do not introduce any bugs.
 - If you're interested in collaborating and adding file handling with CSV to this bank account management system, please feel free to reach out. We can work together to enhance the system and make it more robust and efficient. Let's make this project even better!
+
