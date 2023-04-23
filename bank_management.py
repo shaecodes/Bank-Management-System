@@ -81,13 +81,16 @@ def view_accounts(accounts):
 
 def run():
     while True:
-        print("\nBank Account Management System")
+        print("===================================")
+        print("   BANK ACCOUNT MANAGEMENT SYSTEM  ")
+        print("===================================")
         print("1. Create Account")
         print("2. Deposit")
         print("3. Withdraw")
         print("4. Close Account")
         print("5. View Accounts")
         print("6. Exit")
+        print("===================================")
 
         choice = input("Enter your choice (1/2/3/4/5/6): ")
 
